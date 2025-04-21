@@ -1,0 +1,39 @@
+{
+  "carvers": {
+    "air": ["minecraft:cave", "minecraft:cave_extra_underground"],
+    "liquid": ["minecraft:canyon"]
+  },
+  "downfall": 0.4,
+  "temperature": 0.8,
+  "has_precipitation": true,
+  "effects": {
+    "fog_color": 7829367,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "sky_color": 3866688,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    ["minecraft:ore_ancient_debris_large"],
+    [],
+    [],
+    [],
+    []
+  ],
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": []
+  }
+}

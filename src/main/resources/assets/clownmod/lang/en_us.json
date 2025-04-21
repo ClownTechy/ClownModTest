@@ -1,0 +1,12 @@
+{
+  "item.clownmod.singularity_bottle": "Singularity Bottle",
+  "item.clownmod.singularity_shard": "Singularity Shard",
+
+  "block.clownmod.singularity_block": "Singularity Block",
+  "block.clownmod.raw_singularity_block": "Raw Singularity Block",
+
+  "itemgroup.clownmod.clownmod_items": "Dimension Items",
+  "itemgroup.clownmod.clownmod_blocks": "Dimension Blocks",
+
+  "tooltip.clownmod.singularity_bottle.tooltip": "This bottle radiates with ultra energy?"
+}
